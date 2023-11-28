@@ -16,7 +16,7 @@ Macrophages are immune cells with the ability to engulf cells and digest them by
 
 
 ## Poster Presentation 
-
+![Interleukin-17 Thesis Poster](https://github.com/rafael-solorzano/interleukin-17-B.-schlosseri/blob/main/IL-17%20URCA%20Poster.png)
 
 ### Methods Used
 * 
