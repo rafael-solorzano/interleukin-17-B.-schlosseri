@@ -6,7 +6,7 @@
  
   **Group**: [Anthony De Tomaso Lab](https://detomaso-lab.mcdb.ucsb.edu/)
    
-  **Partner**: [Soham Ray](https://www.linkedin.com/in/soham-ray-sr/)
+  **Partner**: [Soham Ray](https://www.linkedin.com/in/soham-ray-sr/), UCLA Environmental Engineering PhD student
 
 
 
