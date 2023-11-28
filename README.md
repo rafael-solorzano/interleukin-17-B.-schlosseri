@@ -36,4 +36,4 @@
 
 ## Contact
 * Protein expression of target IL-17 receptors/ligands is a work in progress
-* * Feel free to contact me with any questions or if you are interested in contributing or collaborating!
+* Feel free to contact me with any questions or if you are interested in contributing or collaborating!
