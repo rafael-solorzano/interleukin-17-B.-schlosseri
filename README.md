@@ -1,6 +1,6 @@
 
 
-*Note: Complete set of data is available upon request*
+*Note: Complete set of data and code is available upon request*
 
 # Interleukin-17 in *Botryllus schlosseri* 
  
