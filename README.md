@@ -16,6 +16,8 @@
 
 ## *Botryllus schlosseri* Blastogenetic Cycle 
 *Botryllus schlosseri* undergoes a week long blastogenetic cycle, regenerating its entire body *de novo*. It is a well choreographed dance of regenerating and regressing vasculature. We hypothesized that this process was aided by the immunoregulatory family of proteins, IL-17. Given the translucent nature of the extracorporeal vasculature, this 27 second long timeplapse captures the process. 
+
+
 ![](https://github.com/rafael-solorzano/interleukin-17-B.-schlosseri/blob/main/B_schlosseri_blastogenetic_cycle.gif)
 
 
